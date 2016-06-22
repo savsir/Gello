@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="scrim_layout_elevation">0.0dip</dimen>
+    <dimen name="horizontal_divider_width">0.0dp</dimen>
+    <dimen name="vertical_divider_height">0.0dp</dimen>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_5">@*common:color/bg_dark</color>
+    <color name="status_bar_blue_background">@*common:color/ab_color</color>
+    <color name="accent_blue_5">@*common:color/accent</color>
+    <color name="grey_5">@*common:color/accent</color>
+    <color name="accent_blue_6">@*common:color/ab_color</color>
+    <color name="blue_6">@*common:color/ab_color</color>
+    <color name="camera_shutter_outer_ring">@*common:color/bg_dark</color>
+    <color name="camera_shutter_outer_ring_pressed">@*common:color/bg_dark</color>
+    <color name="status_bar_grey_background">@*common:color/bg_dark</color>
+    <color name="white">@*common:color/white</color>
+    <color name="grey_3">@*common:color/grey</color>
+    <color name="grey_9_whiteout">@*common:color/bg_dark</color>
+    <color name="grey_0_whiteout">@*common:color/white</color>
+</resources>

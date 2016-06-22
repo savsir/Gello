@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+   <color name="material_deep_teal_200">@*common:color/accent</color>
+   <color name="material_deep_teal_500">@*common:color/accent</color>
+   
+   <color name="material_blue_grey_800">@*common:color/accent_dark</color>
+   <color name="material_blue_grey_900">@*common:color/accent_dark</color>
+   <color name="material_blue_grey_950">@*common:color/accent_dark</color>
+   
+   <color name="volume_panel_bg">@*common:color/bg_dark</color>
+   <color name="accent_material_light">@*common:color/accent</color>
+   <color name="accent_material_dark">@*common:color/accent</color>
+   <color name="primary_material_dark">@*common:color/accent</color>
+   <color name="primary_material_light">@*common:color/accent</color>
+   <color name="primary_dark_material_dark">@*common:color/accent</color>
+   <color name="primary_dark_material_light">@*common:color/accent</color>
+   <color name="background_material_dark">@*common:color/bg_dark</color>
+   <color name="background_floating_material_dark">@*common:color/bg_dark</color>
+   <color name="background_material_light">@*common:color/bg_light</color>
+   <color name="background_floating_material_light">@*common:color/bg_light</color>  
+   
+   <color name="system_notification_accent_color">@*common:color/notif_circle_bg</color>
+   <color name="notification_icon_bg_color">@*common:color/notif_circle_bg</color>
+   <color name="notification_action_color_filter">#ff282828</color>
+   <color name="notification_media_primary_color">#ffffffff</color>
+   <color name="notification_media_secondary_color">#ffffffff</color>
+   <color name="notification_mtrl_big_picture_bg">#ffffffff</color>
+	
+   <color name="notification_mtrl_action_textcolor">#ff282828</color>
+   
+   <color name="ripple_material_dark">#50129dea</color>
+   <color name="ripple_material_light">#50129dea</color>
+   
+   <color name="battery_saver_mode_color">@*common:color/accent_dark</color>
+   <color name="switch_thumb_normal_material_dark">@*common:color/switch_off</color>
+   <color name="switch_thumb_normal_material_light">@*common:color/switch_off</color>
+   <color name="switch_thumb_disabled_material_dark">@*common:color/switch_off</color>
+   <color name="switch_thumb_disabled_material_light">@*common:color/switch_off</color>
+   <color name="highlighted_text_dark">@*common:color/accent</color>
+   <color name="highlighted_text_light">@*common:color/accent</color>
+   
+   <color name="datepicker_default_selected_text_color_material_light">@*common:color/accent_color_dark</color>
+   <color name="datepicker_default_selected_text_color_material_dark">@*common:color/accent_color_dark</color>
+
+   <color name="datepicker_default_pressed_text_color_material_light">@*common:color/accent</color>
+   <color name="datepicker_default_pressed_text_color_material_dark">@*common:color/accent</color>
+
+   <color name="datepicker_default_circle_background_color_material_light">@*common:color/accent</color>
+   <color name="datepicker_default_circle_background_color_material_dark">@*common:color/accent</color>
+   
+   <color name="primary_text_default_material_light">@*common:color/primary_text_material_light</color>
+   <color name="secondary_text_default_material_light">@*common:color/secondary_text_material_light</color>
+   <color name="primary_text_default_material_dark">@*common:color/primary_text_material_dark</color>
+   <color name="secondary_text_default_material_dark">@*common:color/secondary_text_material_dark</color>
+   
+   	<color name="user_icon_1">#ffffffff</color>
+    <color name="user_icon_2">#ffffffff</color>
+    <color name="user_icon_3">#ffffffff</color>
+    <color name="user_icon_4">#ffffffff</color>
+    <color name="user_icon_5">#ffffffff</color>
+    <color name="user_icon_6">#ffffffff</color>
+    <color name="user_icon_7">#ffffffff</color>
+    <color name="user_icon_8">#ffffffff</color>
+	
+	<color name="transparent">#00ffffff</color>
+</resources>

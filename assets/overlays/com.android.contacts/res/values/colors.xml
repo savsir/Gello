@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="dialer_theme_color">@*common:color/bg_dark</color>
+    <color name="dialer_theme_color_dark">@*common:color/ab_color</color>
+	<color name="dialtacts_theme_color">@*common:color/bg_dark</color>
+    <color name="action_bar_background">@*common:color/bg_dark</color>
+    <color name="primary_color">@*common:color/bg_dark</color>
+	<color name="primary_color_dark">@*common:color/ab_color</color>
+	
+	<color name="prim">#8B48F0</color>
+    <color name="primdark">#8B48F0</color>
+    <color name="prim80">#cc8B48F0</color>
+    <color name="prim50">#808B48F0</color>
+    <color name="acnt">#A46EF4</color>
+    <color name="acntdark">#A46EF4</color>
+    <color name="acnt50">#80A46EF4</color>
+    <color name="tabline">#ffffff</color>
+	<color name="transparent">#00000000</color>
+	<color name="black">#222222</color>
+    <color name="white">#fffafafa</color>
+	<color name="tab_selected_underline_color">#00000000</color>
+</resources>

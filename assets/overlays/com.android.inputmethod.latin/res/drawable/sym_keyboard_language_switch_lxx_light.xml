@@ -1,0 +1,3 @@
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@*common:drawable/sym_keyboard_language_switch_lxx_light"
+    android:tint="@*common:color/light_text_color" />

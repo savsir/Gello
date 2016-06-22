@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">@*common:color/accent</color>
+    <color name="primary_dark">@*common:color/accent_color_dark</color>
+    <color name="primary">@*common:color/accent</color>
+    <color name="tabFaviconBackground">@*common:color/accent</color>
+    <color name="qc_normal">@*common:color/accent</color>
+    <color name="floating_action_button_touch_tint">@*common:color/ab_text_color</color>
+    <color name="qc_selected">@*common:color/ab_text_color</color>
+</resources>

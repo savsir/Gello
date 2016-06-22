@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="quickmessage_body_dark_bg">#ff3b3b3b</color>
+    <color name="quickmessage_body_light_bg">#fff3f3f3</color>
+	<color name="text_hairline">#ff474747</color>
+	<color name="transparent">#00000000</color>
+	<color name="mms_theme_color">#ff282828</color>
+    <color name="mms_theme_color_dark">#ff282828</color>
+    <color name="mms_theme_color_accent">#ff282828</color>
+    <color name="floating_action_button_icon_color">#ffffffff</color>
+	<color name="actionbar_background_color">@color/mms_theme_color</color>
+	<color name="tab_ripple_color">@color/tab_accent_color</color>
+    <color name="tab_accent_color">#ffffffff</color>
+    <color name="tab_selected_underline_color">@color/tab_accent_color</color>
+    <color name="frequently_contacted_title_color">@color/actionbar_background_color</color>
+</resources>

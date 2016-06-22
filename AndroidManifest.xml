@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.savsir.gello" platformBuildVersionCode="21" platformBuildVersionName="APKTOOL">
+    <uses-feature android:name="org.cyanogenmod.theme" android:required="true"/>
+    <meta-data android:name="org.cyanogenmod.theme.name" android:value="@string/theme_name"/>
+    <meta-data android:name="org.cyanogenmod.theme.author" android:value="@string/theme_author"/>
+    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="@string/app_name"/>
+</manifest>

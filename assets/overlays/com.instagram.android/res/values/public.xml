@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<public type="attr" name="modalActionBarStatusBarColor" id="0x7f010020" />
+	<public type="attr" name="backgroundColorPrimaryDark" id="0x7f01000b" />
+	<public type="color" name="status_bar_grey_background" id="0x7f0700c7" />
+	<public type="attr" name="defaultActionBarBackground" id="0x7f010011" />
+	<public type="style" name="TabBarButton.White" id="0x7f0d0066" />
+	<public type="attr" name="normal" id="0x7f01002f" />
+	<public type="attr" name="active" id="0x7f010031" />
+	<public type="attr" name="defaultActionBarDividerColor" id="0x7f010014" />
+	<public type="color" name="grey_9_whiteout" id="0x7f0700b4" />
+	<public type="color" name="grey_0_whiteout" id="0x7f0700bc" />
+	<public type="color" name="grey_3" id="0x7f070006" />
+	<public type="attr" name="modalActionBarBackground" id="0x7f010019" />
+	<public type="attr" name="tabButtonBackground" id="0x7f0100b0" />
+	<public type="attr" name="modalActionBarDividerColor" id="0x7f01001f" />
+	<public type="style" name="TabBarButton" id="0x7f0d0065" />
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<attr name="backgroundColorPrimaryDark" format="color" />
+	<attr name="modalActionBarStatusBarColor" format="color" />
+	<attr name="defaultActionBarBackground" format="reference" />
+	<attr name="defaultActionBarDividerColor" format="color" />
+	<attr name="active" format="color" />
+	<attr name="normal" format="color" />
+	<attr name="tabButtonBackground" format="reference" />
+    <attr name="modalActionBarDividerColor" format="color" />
+    <attr name="modalActionBarBackground" format="reference" />
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Messaging's Styles-->
+
+<resources>
+	
+    <style name="BugleBaseTheme" parent="@android:style/Theme.Material.Light" >
+		<item name="android:statusBarColor">@*common:color/primary_material_dark</item>
+		<item name="android:navigationBarColor">?*android:colorPrimaryDark</item>
+		<item name="android:colorPrimaryDark">@*common:color/primary_material_dark</item>
+	 </style>
+    <style name="BugleTheme.ConversationListActivity" parent="@android:style/Theme.Material.Light" >
+		<item name="android:statusBarColor">@*common:color/primary_material_dark</item>
+		<item name="android:navigationBarColor">?*android:colorPrimaryDark</item>
+		<item name="android:colorPrimaryDark">@*common:color/primary_material_dark</item>
+    </style>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar_background_color">@*common:color/bg_dark</color>
+    <color name="primary_material_dark">@*common:color/ab_color</color>
+    <color name="active_action_bar_background_color">@*common:color/bg_dark</color>
+    <color name="primary_material_light">@*common:color/bg_dark</color>
+    <color name="primary_dark_material_dark">@*common:color/ab_color</color>
+    <color name="primary_dark_material_light">@*common:color/ab_color</color>
+    <color name="primary_color_dark">@*common:color/ab_color</color>
+    <color name="yellow_color">@*common:color/bg_dark</color>
+    <color name="primary_color">@*common:color/bg_dark</color>
+</resources>

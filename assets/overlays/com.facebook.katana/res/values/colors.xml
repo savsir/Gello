@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="bg_color">@*common:color/primary_material_light</color>
+    <color name="title_bar_blue_background">@*common:color/primary_material_light</color>
+    <color name="common_action_bar_splitter">@*common:color/primary_material_light</color>
+    
+    <color name="fb_blue">@*common:color/primary_material_light</color>
+    <color name="fbui_light_blue">@*common:color/primary_material_light</color>
+    <color name="fbui_blue_50">@*common:color/primary_material_light</color>
+    <color name="fbui_blue_90">@*common:color/primary_material_light</color>
+    <color name="fbui_blueblack_10">@*common:color/primary_material_light</color>
+    <color name="fbui_facebook_blue">@*common:color/primary_material_light</color>
+	  <color name="fbui_facebook_blue_f0">@*common:color/primary_material_light</color>
+	  
+    <color name="fbui_accent_blue_10">#FFF0F0F0</color>
+    <color name="fbui_accent_blue_20">@*common:color/accent_material_light</color>
+    <color name="fbui_accent_blue_40">@*common:color/accent_material_light</color>
+	  <color name="fbui_accent_blue_50">@*common:color/accent_material_light</color>
+    
+    <color name="fbui_accent_blue">@*common:color/accent_material_light</color>
+    <color name="fbui_text_link">@*common:color/accent_material_light</color>
+	  
+	  <color name="link_text_facebookholo_dark">@*common:color/accent_material_light</color>
+    <color name="link_text_facebookholo_light">@*common:color/accent_material_light</color>
+	  
+	  <color name="highlighted_text_facebookholo_light">@*common:color/accent_material_light</color>
+	  <color name="highlighted_text_facebookholo_dark">@*common:color/accent_material_light</color>
+    
+    </resources>

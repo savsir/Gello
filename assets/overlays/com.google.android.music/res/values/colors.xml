@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_material_dark">@*common:color/music</color>
+    <color name="primary_material_light">@*common:color/music</color>
+    <color name="primary_dark_material_dark">@*common:color/music_dark</color>
+    <color name="primary_dark_material_light">@*common:color/music_dark</color>
+    <color name="play_music_primary">@*common:color/music</color>
+    <color name="play_music_secondary">@*common:color/accent_dark</color>
+    <color name="lb_default_brand_color">@*common:color/music</color>
+    <color name="nowplaying_progressbar_bg">@*common:color/accent_transparent</color>
+    <color name="nowplaying_progressbar_secondary_progress">@*common:color/accent_transparent</color>
+    <color name="nowplaying_progressbar_progress">@*common:color/accent_transparent</color>
+    <color name="app_color">@*common:color/music</color>
+    <color name="music_primary">@*common:color/music</color>
+    <color name="signup_header_text">@*common:color/music</color>
+    <color name="nus_title_text_color">@*common:color/music</color>
+    <color name="music_primary_disabled">@*common:color/music</color>
+    <color name="app_color_transparent">@*common:color/accent_transparent</color>
+	<color name="download_only_strip_bg">@*common:color/music</color>
+    <color name="download_only_strip_bg_light">@*common:color/music</color>
+    <color name="download_only_strip_bg_pressed">@*common:color/music</color>
+    <color name="download_only_strip_text_color">@*common:color/music</color>
+</resources>

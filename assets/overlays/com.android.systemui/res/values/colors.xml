@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="system_primary_color">@*common:color/bg_dark</color>
+    <color name="system_secondary_color">@*common:color/bg_dark</color>
+    <color name="system_accent_color">#33B5E5</color>
+	<color name="search_panel_circle_color">@*common:color/bg_light</color>
+    <color name="search_panel_ripple_color">@*common:color/accent_transparent</color>
+	<color name="qs_text">@*common:color/qs_text_color</color>
+    <color name="qs_tile_text">@*common:color/qs_text_color</color>
+	<color name="qs_tile_divider">#00000000</color>
+	<color name="qs_detail_empty">@*common:color/ab_text_color</color>
+	<color name="notification_legacy_background_color">@*common:color/notification_item_bg</color>
+    <color name="notification_material_background_color">@*common:color/notification_item_bg</color>
+    <color name="notification_material_background_dimmed_color">@*common:color/notification_item_bg</color>
+    <color name="notification_material_background_low_priority_color">@*common:color/notification_item_bg</color>
+    <color name="notification_material_background_media_default_color">@*common:color/navigation_bar</color>
+	<color name="material_status_bar_tint_color_dark_primary_dark">@*common:color/accent_dark</color>
+	<color name="ripple_material_dark">#00ffffff</color>
+    <color name="ripple_material_light">#00ffffff</color>
+    <color name="notification_action_color_filter">@*common:color/bg_dark</color>
+    <color name="notification_mtrl_action">@*common:color/bg_dark</color>
+    <color name="fab_color">@*common:color/midnight_theme</color>
+    <color name="floating_action_button_icon_color">@*common:color/white</color>
+    <color name="floating_action_button_touch_tint">#37000000</color>
+    <color name="volume_settings_icon_color">#ffffffff</color>
+    <color name="volume_icon_color">#ffffffff</color>
+</resources>

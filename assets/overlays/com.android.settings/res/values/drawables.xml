@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Themes Category Title Icon 12.1 -->
+    <drawable name="ic_liquid_themes_settings">@drawable/ic_settings_themes</drawable>
+    <drawable name="ic_settings_theme">@drawable/ic_settings_themes</drawable>
+    <drawable name="prd_ic_themepacks">@drawable/ic_settings_themes</drawable>
+    <drawable name="ic_settings_themes_tint">@drawable/ic_settings_themes</drawable>
+    <drawable name="ic_settings_theme_tint">@drawable/ic_settings_themes</drawable>
+    <drawable name="ic_themes_tint">@drawable/ic_settings_themes</drawable>
+
+    <drawable name="appwidget_settings_divider_holo">@android:color/transparent</drawable>
+    <drawable name="appwidget_settings_ind_on_r_holo">@android:color/transparent</drawable>
+    <drawable name="appwidget_settings_ind_on_l_holo">@android:color/transparent</drawable>
+    <drawable name="appwidget_settings_ind_on_c_holo">@android:color/transparent</drawable>
+    <drawable name="appwidget_settings_ind_off_r_holo">@android:color/transparent</drawable>
+    <drawable name="appwidget_settings_ind_off_l_holo">@android:color/transparent</drawable>
+    <drawable name="appwidget_settings_ind_off_c_holo">@android:color/transparent</drawable>
+    <drawable name="appwidget_inner_pressed_r_holo">@android:color/transparent</drawable>
+    <drawable name="appwidget_inner_pressed_l_holo">@android:color/transparent</drawable>
+    <drawable name="appwidget_inner_pressed_c_holo">@android:color/transparent</drawable>
+    <drawable name="appwidget_inner_focused_r_holo">@android:color/transparent</drawable>
+    <drawable name="appwidget_inner_focused_l_holo">@android:color/transparent</drawable>
+    <drawable name="appwidget_inner_focused_c_holo">@android:color/transparent</drawable>
+</resources>

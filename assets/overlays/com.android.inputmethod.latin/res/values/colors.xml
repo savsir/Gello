@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="key_text_color_lxx_light">@*common:color/light_text_color</color>
+    <color name="key_hint_letter_color_lxx_light">@*common:color/light_text_color</color>
+    <color name="key_functional_text_color_lxx_light">@*common:color/light_text_color</color>
+    <color name="highlight_color_lxx_light">@*common:color/accent</color>
+    <color name="auto_correct_color_lxx_light">@*common:color/accent</color>
+    <color name="suggested_word_color_lxx_light">@*common:color/accent</color>
+    <color name="gesture_trail_color_lxx_light">@*common:color/accent</color>
+    <color name="sliding_key_input_preview_color_lxx_light">@*common:color/keyboard_dark_bg</color>
+    <color name="key_background_lxx_dark">@*common:color/keyboard_dark_bg</color>
+ 
+
+ <color name="key_text_color_lxx_dark">@*common:color/dark_text_color</color>
+    <color name="key_hint_letter_color_lxx_dark">@*common:color/dark_text_color</color>
+    <color name="key_functional_text_color_lxx_dark">@*common:color/dark_text_color</color>
+    <color name="highlight_color_lxx_dark">@*common:color/accent</color>
+    <color name="auto_correct_color_lxx_dark">@*common:color/accent</color>
+    <color name="suggested_word_color_lxx_dark">@*common:color/accent</color>
+    <color name="gesture_trail_color_lxx_dark">@*common:color/accent</color>
+    <color name="sliding_key_input_preview_color_lxx_dark">@*common:color/keyboard_light_bg</color>
+    <color name="key_background_lxx_light">@*common:color/keyboard_light_bg</color>
+  
+  
+  
+  
+
+</resources>

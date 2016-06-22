@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ListItemTitle" parent="@android:style/TextAppearance">
+    <item name="android:textSize">15.0sp</item>
+    <item name="android:textColor">#FF707070</item>
+    <item name="android:ellipsize">end</item>
+    <item name="android:singleLine">true</item>
+    </style>
+    
+    <style name="ListItemSubtitle" parent="@android:style/TextAppearance">
+    <item name="android:textSize">13.5sp</item>
+    <item name="android:textColor">#FF999999</item>
+    <item name="android:ellipsize">end</item>
+    <item name="android:singleLine">true</item>
+    </style>
+    
+    <style name="ConversationDate" parent="@android:style/TextAppearance">
+    <item name="android:textStyle">normal</item>
+    <item name="android:textSize">11.0sp</item>
+    <item name="android:textColor">#FF606060</item>
+    <item name="android:textAllCaps">true</item>
+    </style>
+    
+    </resources>

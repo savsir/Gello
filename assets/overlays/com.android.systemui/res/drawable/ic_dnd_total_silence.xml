@@ -1,0 +1,4 @@
+<ripple android:color="?android:colorControlHighlight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_qs_dnd_on_total_silence" />
+</ripple>

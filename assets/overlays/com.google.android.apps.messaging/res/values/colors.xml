@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar_background_color">@*common:color/accent</color>
+    <color name="action_bar_background_color_dark">@*common:color/accent_dark</color>
+	<color name="compose_message_send_color">@*common:color/accent</color>
+    <color name="message_bubble_color_selected">@*common:color/accent</color>
+    <color name="contact_list_alphabet_header">@*common:color/accent</color>
+    <color name="notification_accent_color">@*common:color/accent</color>
+    <color name="fab_color">@*common:color/accent</color>
+    <color name="unblock_item_text_color">@*common:color/accent</color>
+	<color name="compose_notification_bar_background">@*common:color/accent</color>
+</resources>

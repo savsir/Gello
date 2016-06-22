@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="browsertab_add">@*common:color/accent</item>
+    <item type="drawable" name="browsertab_add_focused">@*common:color/accent</item>
+    <item type="drawable" name="browsertab_inactive">@*common:color/accent</item>
+    <item type="drawable" name="bg_browsertabs">@*common:color/accent</item>
+</resources>

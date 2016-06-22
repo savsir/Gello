@@ -1,0 +1,9 @@
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@*common:color/midnight_theme" />
+        </shape>
+    </item>
+</layer-list>

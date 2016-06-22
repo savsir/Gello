@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="3000" android:drawable="@drawable/stat_sys_zen_none1" />
+    <item android:duration="60" android:drawable="@drawable/stat_sys_zen_none2" />
+    <item android:duration="60" android:drawable="@drawable/stat_sys_zen_none3" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_zen_none4" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_zen_none5" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_zen_none6" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_zen_none7" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_zen_none8" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_zen_none9" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_zen_none10" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_zen_none11" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_zen_none12" />
+</animation-list>

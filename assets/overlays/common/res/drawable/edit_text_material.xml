@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:inset="@*android:dimen/control_inset_material"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ripple android:color="@*common:color/accent">
+        <item>
+            <selector>
+                <item android:state_enabled="false">
+                    <nine-patch android:src="@*android:drawable/textfield_default_mtrl_alpha" android:tint="@*common:color/accent" android:alpha="?*android:disabledAlpha" />
+                </item>
+                <item>
+                    <nine-patch android:src="@*android:drawable/textfield_default_mtrl_alpha" android:tint="@*common:color/accent" />
+                </item>
+            </selector>
+        </item>
+        <item android:id="@*android:id/mask" android:drawable="@*android:drawable/textfield_activated_mtrl_alpha" />
+    </ripple>
+</inset>

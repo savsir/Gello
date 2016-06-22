@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="avatar_background_color">@*common:color/green_transparent</color>
+    <color name="title_background">@*common:color/green</color>
+    <color name="conversation_hangout_color">@*common:color/green</color>
+	<color name="action_bar_background_color">@*common:color/green</color>
+	<color name="quantum_googgreen700">@*common:color/green_dark</color>
+	<color name="quantum_googgreen500">@*common:color/green</color>
+	<color name="hangout_fmf_in_call_promo_eligible">@*common:color/green</color>
+	<color name="bg_item_normal_invite">@*common:color/green_transparent</color>
+</resources>

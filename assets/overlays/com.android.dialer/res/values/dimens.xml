@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_box_elevation">0dp</dimen>
+    <dimen name="favorites_row_top_padding">0dp</dimen>
+    <dimen name="favorites_row_bottom_padding">0dp</dimen>
+    <dimen name="favorites_row_start_padding">0dp</dimen>
+    <dimen name="favorites_row_end_padding">0dp</dimen>
+    <dimen name="contact_tile_divider_width">0dp</dimen>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="btn_keyboard_key_active_lxx_light">@drawable/btn_keyboard_key_active_lxx_dark</item>
+    <item type="drawable" name="btn_keyboard_key_active_pressed_lxx_dark">@drawable/btn_keyboard_key_active_lxx_dark</item>
+    <item type="drawable" name="btn_keyboard_key_active_pressed_lxx_light">@drawable/btn_keyboard_key_active_lxx_dark</item>
+   	<item type="drawable" name="btn_keyboard_key_popup_selected_lxx_light">@drawable/btn_keyboard_key_popup_selected_lxx_dark</item>
+
+
+   <item type="drawable" name="keyboard_suggest_strip_lxx_dark">@*common:color/bg_dark</item>
+    <item type="drawable" name="keyboard_suggest_strip_lxx_light">@*common:color/bg_light</item>
+
+ <!--item type="drawable" name="keyboard_key_feedback_background_lxx_dark">@drawable/keyboard_key_feedback_more_background_lxx_dark</item>
+ <item type="drawable" name="keyboard_key_feedback_background_lxx_light">@drawable/keyboard_key_feedback_more_background_lxx_dark</item>
+ <item type="drawable" name="keyboard_key_feedback_more_background_lxx_light">@drawable/keyboard_key_feedback_more_background_lxx_dark</item>
+ <item type="drawable" name="keyboard_popup_panel_background_lxx_dark">@drawable/keyboard_key_feedback_more_background_lxx_dark</item>
+ <item type="drawable" name="keyboard_popup_panel_background_lxx_light">@drawable/keyboard_key_feedback_more_background_lxx_dark</item-->
+
+    <item type="drawable" name="keyboard_background_lxx_dark">@*common:color/keyboard_dark_bg</item>
+    <item type="drawable" name="keyboard_background_lxx_light">@*common:color/keyboard_light_bg</item>
+    
+	<item type="drawable" name="btn_keyboard_key_pressed_on_lxx_light">@*common:color/transparent</item>
+	<item type="drawable" name="btn_keyboard_key_pressed_on_lxx_dark">@*common:color/transparent</item>
+	<item type="drawable" name="btn_keyboard_key_pressed_off_lxx_light">@*common:color/transparent</item>
+	<item type="drawable" name="btn_keyboard_key_pressed_off_lxx_dark">@*common:color/transparent</item>
+	<item type="drawable" name="btn_keyboard_key_normal_on_lxx_light">@*common:color/transparent</item>
+	<item type="drawable" name="btn_keyboard_key_normal_on_lxx_dark">@*common:color/transparent</item>
+	<item type="drawable" name="btn_keyboard_key_normal_off_lxx_light">@*common:color/transparent</item>
+	<item type="drawable" name="btn_keyboard_key_normal_off_lxx_dark">@*common:color/transparent</item>
+   
+</resources>

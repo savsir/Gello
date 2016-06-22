@@ -1,0 +1,16 @@
+version: 2.0.2
+apkFileName: 6B2506.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: M13
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '23'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '6'
+  versionName: '5.0'
+sharedLibrary: false

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status_bar_color">@*common:color/ab_color</color>
+    <color name="quantum_bluegrey700">@*common:color/accent_dark</color>
+	<color name="quantum_googgreen500">@*common:color/accent_dark</color>
+	<color name="quantum_googgreen700">@*common:color/accent_dark</color>
+	<color name="quantum_grey900">@*common:color/bg_dark</color>
+	<color name="quantum_grey800">@*common:color/bg_dark</color>
+	<color name="story_edit_location_bottom_bar_text_color">@*common:color/ab_color</color>
+	<color name="common_signin_btn_default_background">@*common:color/bg_dark</color>
+	<color name="action_bar_background">@*common:color/bg_dark</color>
+    <color name="theme_primary">@*common:color/ab_color</color>
+    <color name="quantum_googred700">@*common:color/accent_dark</color>
+    <color name="quantum_googred500">@*common:color/ab_color</color>
+    <color name="quantum_googred">@*common:color/accent_dark</color>
+    <color name="quantum_lightblue700">@*common:color/bg_dark</color>
+    <color name="quantum_lightblue900">@*common:color/bg_dark</color>
+    <color name="tab_background_color">@*common:color/ab_color</color>
+</resources>

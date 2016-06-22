@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="swiped_bg_color">@*common:color/bg_dark</color>
+	<color name="quantum_googred400">@*common:color/bg_dark</color>
+    <color name="quantum_googred500">@*common:color/bg_dark</color>
+    <color name="quantum_googred800">@*common:color/ab_color</color>
+	<color name="primary_text">#ffffffff</color>
+	<color name="secondary_text">#fff1f1f1</color>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="header_action_bar_color">#282828</color>
+    <color name="primary">#282828</color>
+    <color name="primary_dark">#282828</color>
+    <color name="primary_light">#ff282828</color>
+    <color name="circular_progress_bar_background">#00ffffff</color>
+    <color name="circular_progress_bar">#ff33B5E5</color>
+    <color name="now_playing_divider">#00000000</color>
+    <color name="widget_divider">#282828</color>
+    <color name="lyrics_background_color">#00000000</color>
+    <color name="page_header_background">#282828</color>
+    <color name="accent">#ff33B5E5</color>
+    
+    <color name="letter_tile_default_color">@*common:color/accent</color>
+    <color name="letter_tile_font_color">@*common:color/black</color>
+    <color name="equalizer_fill_color">#ff33B5E5</color>
+    <color name="letter_tile_purple_color">#ff33B5E5</color>
+    <color name="letter_tile_blue_color">#ff33B5E5</color>
+    <color name="letter_tile_indigo_color">#ff33B5E5</color>
+    <color name="letter_tile_teal_color">#ff33B5E5</color>
+    <color name="letter_tile_light_green_color">#ff33B5E5</color>
+    <color name="letter_tile_red_color">#ff33B5E5</color>
+    <color name="letter_tile_grey_color">#ff33B5E5</color>
+    <color name="letter_tile_deep_orange_color">#ff33B5E5</color>
+    <color name="letter_tile_brown_color">#ff33B5E5</color>
+    <color name="letter_tile_purple_color_dark">@*common:color/black</color>
+    <color name="letter_tile_blue_color_dark">@*common:color/black</color>
+    <color name="letter_tile_indigo_color_dark">@*common:color/black</color>
+    <color name="letter_tile_teal_color_dark">@*common:color/black</color>
+    <color name="letter_tile_light_green_color_dark">@*common:color/black</color>
+    <color name="letter_tile_red_color_dark">@*common:color/black</color>
+    <color name="letter_tile_grey_color_dark">@*common:color/black</color>
+    <color name="letter_tile_deep_orange_color_dark">@*common:color/black</color>
+    <color name="letter_tile_brown_color_dark">@*common:color/black</color>
+	
+	<color name="prim">#ff33B5E5</color>
+    <color name="primdark">#ff33B5E5</color>
+    <color name="prim80">#ff33B5E5</color>
+    <color name="prim50">#ff33B5E5</color>
+    <color name="acnt">#ff33B5E5</color>
+    <color name="acntdark">#ff33B5E5</color>
+    <color name="acnt50">#8033B5E5</color>
+    <color name="tabline">#ffffff</color>
+	<color name="transparent">#00000000</color>
+	<color name="black">#282828</color>
+    <color name="white">#fffafafa</color>
+	<color name="tab_selected_underline_color">#00000000</color>
+</resources>

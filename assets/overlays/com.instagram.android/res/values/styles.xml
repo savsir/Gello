@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="InstagramTheme" parent="@style/InstagramBaseTheme">
+        <item name="android:statusBarColor">#ff282828</item>
+        <item name="android:navigationBarColor">#ff282828</item>
+        <item name="android:colorPrimary">#ff282828</item>
+        <item name="android:colorPrimaryDark">#ff282828</item>
+        <item name="android:colorAccent">#ff33B5E5</item>
+    </style>
+    <style name="InstagramBaseTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">#ff282828</item>
+        <item name="android:colorPrimary">#ff282828</item>
+        <item name="android:colorPrimaryDark">#ff282828</item>
+        <item name="android:navigationBarColor">#ff282828</item>
+        <item name="android:colorAccent">#ff33B5E5</item>
+    </style>
+    <style name="Base.Theme.Instagram" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">#ff282828</item>
+        <item name="android:navigationBarColor">#ff282828</item>
+        <item name="android:colorPrimaryDark">#ff282828</item>
+    </style>
+	<style name="Base.Theme.Instagram.White" parent="@style/Base.Theme.Instagram">
+		<item name="backgroundColorPrimaryDark">@color/status_bar_grey_background</item>
+    </style>
+    <style name="Theme.Instagram.White" parent="@style/Base.Theme.Instagram.White">
+        <item name="modalActionBarStatusBarColor">@color/status_bar_grey_background</item>
+        <item name="defaultActionBarBackground">@color/grey_0_whiteout</item>
+        <item name="defaultActionBarDividerColor">@color/grey_9_whiteout</item>
+        <item name="modalActionBarDividerColor">@color/grey_9_whiteout</item>
+        <item name="tabButtonBackground">@color/grey_0_whiteout</item>
+        <item name="modalActionBarBackground">@color/grey_0_whiteout</item>
+    </style>
+    <style name="FixedTabBar.Whiteout" parent="@style/FixedTabBar">
+        <item name="android:background">@color/grey_0_whiteout</item>
+    </style>
+    <style name="FixedTabBar">
+        <item name="android:background">@color/white</item>
+    </style>
+    <style name="TabBarButton.White" parent="@style/TabBarButton">
+        <item name="normal">@color/white</item>
+        <item name="active">@color/grey_9_whiteout</item>
+    </style>
+        <style name="TabBarButton">
+        <item name="normal">@color/grey_3</item>
+        <item name="active">@color/white</item>
+    </style>
+</resources>

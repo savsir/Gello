@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hot_pink">@*common:color/accent</color>
+    <color name="blue">@*common:color/accent</color>
+    <color name="darker_blue">@*common:color/accent_dark</color>
+    <color name="default_background">@*common:color/bg_dark</color>
+</resources>

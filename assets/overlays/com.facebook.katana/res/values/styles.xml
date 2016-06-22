@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	  <style name="Theme.Facebook" parent="@android:style/Theme.Material.Light.DarkActionBar">
+		<item name="android:colorPrimary">@*common:color/primary_material_light</item>
+		<item name="android:colorPrimaryDark">@*common:color/primary_material_dark</item>
+		<item name="android:statusBarColor">@*common:color/primary_material_light</item>
+		<item name="android:navigationBarColor">@*common:color/primary_material_light</item>
+		<item name="android:textColor">#FF707376</item>
+		<item name="android:textColorPrimary">#FF707376</item>
+		<item name="android:textColorSecondary">#FF949698</item>
+		<item name="android:textColorTertiary">#FFA9ACAE</item>
+		<item name="android:colorAccent">@*common:color/accent_material_light</item>
+    </style>
+    
+    </resources>

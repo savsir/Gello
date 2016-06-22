@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Calendar's Colors-->
+
+<resources>
+	<!--Floating action button colors-->
+    <color name="fab_theme_color">@*common:color/midnight_theme</color>
+    <color name="fab_theme_color_dark">@*common:color/white</color>
+    <color name="fab_theme_color_accent">@*common:color/midnight_theme</color>
+    <color name="agenda_day_bar_background_color">@*common:color/black</color>
+    <color name="theme_color">@*common:color/white</color>
+    <color name="theme_color_dark">@*common:color/midnight_theme</color>	
+    <color name="theme_color_accent">@*common:color/midnight_theme</color>
+    
+    <color name="background_color">@*common:color/white</color>
+    <color name="calendar_hour_background">@*common:color/white</color>
+    <color name="calendar_date_banner_background">@*common:color/white</color>
+    <color name="month_other_bgcolor">@*common:color/white</color>
+    <color name="agenda_general_background_color">@*common:color/white</color>
+    <color name="month_selected_week_bgcolor">@*common:color/white</color>
+    <color name="event_info_label_background_color">@*common:color/white</color>
+    <color name="month_bgcolor">@*common:color/white</color>
+    <color name="month_today_bgcolor">@*common:color/youtube_transparent</color>
+	<color name="calendar_future_bg_color">@*common:color/white</color>
+</resources>

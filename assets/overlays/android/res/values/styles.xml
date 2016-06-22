@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+   <style name="Theme.Material" parent="@*android:style/Theme.Material">
+      <item name="android:navigationBarColor">?*android:colorPrimaryDark</item>
+      <item name="android:colorPrimary">@*common:color/ab_color</item>
+      <item name="android:colorPrimaryDark">@*common:color/accent_dark</item>
+      <item name="android:colorAccent">@*common:color/accent</item>
+      <item name="android:colorBackground">@*common:color/bg_dark</item>
+	  <item name="android:colorEdgeEffect">@*common:color/accent_transparent</item>	
+    </style>
+   <style name="Theme.Material.Light" parent="@*android:style/Theme.Material.Light">
+   	  <item name="android:colorPrimary">#ffffffff</item>
+      <item name="android:colorPrimaryDark">#ff5a5a5a</item>
+      <item name="android:colorAccent">@*common:color/accent</item>
+      <item name="android:colorBackground">@*common:color/white</item>
+	  <item name="android:colorEdgeEffect">@*common:color/accent_transparent</item>
+	  <item name="android:statusBarColor">?*android:colorPrimaryDark</item>
+      <item name="android:navigationBarColor">?*android:colorPrimaryDark</item>
+   </style>
+      <style name="Theme.Material.Light.DarkActionBar" parent="@*android:style/Theme.Material.Light.DarkActionBar">
+      <item name="android:navigationBarColor">?*android:colorPrimaryDark</item>
+      <item name="android:colorPrimary">@*common:color/ab_color</item>
+      <item name="android:colorPrimaryDark">@*common:color/accent_dark</item>
+      <item name="android:colorAccent">@*common:color/accent</item>
+      <item name="android:colorBackground">@*common:color/bg_light</item> 
+   </style>
+   <style name="TextAppearance.Material.Notification" parent="@*android:style/TextAppearance.Material">
+      <item name="android:textSize">@*android:dimen/notification_text_size</item>
+      <item name="android:textColor">@*common:color/notification_item_text</item>
+   </style>
+   <style name="TextAppearance.Material.Notification.Emphasis" parent="@*android:style/TextAppearance.Material.Notification">
+      <item name="android:textColor">@*common:color/notification_item_text</item>
+   </style>
+   <style name="TextAppearance.Material.Notification.Info" parent="@*android:style/TextAppearance.Material.Notification">
+      <item name="android:textSize">@*android:dimen/notification_subtext_size</item>
+      <item name="android:textColor">@*common:color/notification_item_text</item>
+   </style>
+   <style name="TextAppearance.Material.Notification.Line2" parent="@*android:style/TextAppearance.Material.Notification">
+      <item name="android:textSize">@*android:dimen/notification_subtext_size</item>
+      <item name="android:textColor">@*common:color/notification_item_text</item>
+   </style>
+   <style name="TextAppearance.Material.Notification.Time" parent="@*android:style/TextAppearance.Material.Notification">
+      <item name="android:textSize">@*android:dimen/notification_subtext_size</item>
+      <item name="android:textColor">@*common:color/notification_item_text</item>
+   </style>
+   <style name="TextAppearance.Material.Notification.Title" parent="@*android:style/TextAppearance.Material.Notification">
+      <item name="android:textSize">@*android:dimen/notification_title_text_size</item>
+      <item name="android:textColor">@*common:color/notification_item_text</item>
+   </style>
+   <style name="Theme.Material.Light.BaseDialog" parent="@android:style/Theme.Material.Light.Dialog">
+        <item name="android:colorBackground">@*common:color/bg_light</item>
+	</style>
+	<style name="Theme.Material.BaseDialog" parent="@android:style/Theme.Material.Dialog">
+	    <item name="android:colorBackground">@*common:color/bg_dark</item>
+	</style>
+    <style name="Theme.DeviceDefault.Wallpaper" parent="@android:style/Theme.Material.Wallpaper" />
+    <style name="Theme.DeviceDefault.Wallpaper.NoTitleBar" parent="@android:style/Theme.Material.Wallpaper.NoTitleBar" />
+    
+</resources>

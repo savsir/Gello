@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="statusbar_drawable">@*common:color/accent</item>
+    <item type="drawable" name="bg_material_selectionbar">@*common:color/accent</item>
+    <item type="drawable" name="bg_material_titlebar">@*common:color/accent</item>
+    <item type="drawable" name="bg_material_statusbar">@*common:color/accent</item>
+    <item type="drawable" name="bg_header">@*common:color/accent</item>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- switchbar text color in battery optimization menu -->
+    <color name="actionbar_background_color">#282828</color>
+    <color name="Transparent">#00000000</color>
+    <color name="title_icon_color">#000</color>
+
+	<color name="dslv_icon_dark">#33B5E5</color>
+    <color name="dslv_float_cackground_color">#33B5E5</color>
+    <color name="material_empty_color_light">#ffd7d7d7</color>
+    <color name="memory_avail">#ffeeeeee</color>	
+    <color name="wifi_assistant_color_accent">#33B5E5</color>
+    <color name="dashboard_background_color">#ffebebeb</color>
+	<color name="dashboard_category_background_color">#fff</color>
+	<color name="divider_color">@*common:color/transparent</color>
+
+	<!-- Dashboard Category Title Background Color -->
+	<color name="dashboard_category_title_bg_color">#ffffff</color>
+
+    <color name="switchbar_background_color">#ff353535</color>
+	<color name="switchbar_text_color">#ffffffff</color>
+    <color name="switch_accent_color">@*common:color/accent</color>
+
+	<color name="status_bar">#282828</color>
+	<color name="background1">#ffffffff</color>
+	<color name="theme_primary">#ff282828</color>
+    <color name="theme_primary_dark">#ff282828</color>
+	<color name="theme_accent">#33B5E5</color>
+	<color name="qs_tile_tint_color">#33B5E5</color>
+
+    <color name="tile_icon_color">@color/icon_tint_color</color>
+    <color name="icon_tint_color">#000</color>
+    <color name="external_tile_icon_tint_color">@color/icon_tint_color</color>
+    <color name="ic_external_settings_icon_tint_color">@color/icon_tint_color</color>
+</resources>

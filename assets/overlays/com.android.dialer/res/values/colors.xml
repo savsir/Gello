@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="dialtacts_theme_color">@*common:color/accent</color>
+	<color name="incall_dialpad_touch_tint">@*common:color/transparent</color>
+	<color name="dialer_dialpad_touch_tint">@*common:color/transparent</color>
+	<color name="dialer_theme_color">@*common:color/bg_dark</color>
+    <color name="dialer_theme_color_dark">@*common:color/ab_color</color>
+	<color name="background_dialpad">@*common:color/white</color>
+    <color name="background_dialpad_pressed">#00000000</color>
+    <color name="dialpad_primary_text_color">#ff000000</color>
+    <color name="dialpad_secondary_text_color">@*common:color/accent</color>
+    <color name="dialpad_digits_text_color">#33B5E5</color>
+    <color name="dialpad_separator_line_color">@*common:color/transparent</color>
+    <color name="dialpad_icon_tint">#33B5E5</color>
+    <color name="dialpad_voicemail_tint">@*common:color/accent</color>
+    <color name="holo_list_background_color">#ffeeeeee</color>
+    <color name="focus_color">#5033B5E5</color>
+    <color name="ripple_material_dark">#20ffffff</color>
+    <color name="primary_text_color">#ff363636</color>
+    <color name="searchbox_icon_tint">#ffffffff</color>
+    <color name="searchbox_hint_text_color">#ffffffff</color>
+    <color name="search_shortcut_background_color">@*common:color/bg_dark</color>
+    <color name="searchbox_background_color">@*common:color/bg_dark</color>
+	<color name="contact_tile_shadow_box_color">@color/transparent</color>
+	
+	<color name="prim">#8B48F0</color>
+    <color name="primdark">#8B48F0</color>
+    <color name="prim80">#cc8B48F0</color>
+    <color name="prim50">#808B48F0</color>
+    <color name="acnt">#A46EF4</color>
+    <color name="acntdark">#A46EF4</color>
+    <color name="acnt50">#80A46EF4</color>
+    <color name="tabline">#ffffff</color>
+	<color name="transparent">#00000000</color>
+	<color name="black">#ff212121</color>
+    <color name="white">#fffafafa</color>
+	<color name="actionbar_unselected_text_color">#a6ffffff</color>
+	<color name="tab_selected_underline_color">#33B5E5</color>
+</resources>

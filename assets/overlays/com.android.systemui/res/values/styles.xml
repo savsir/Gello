@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="TextAppearance.StatusBar.Expanded" parent="@*android:style/TextAppearance.StatusBar" >
+		<item name="android:textColor">@*common:color/ab_text_color</item>
+    </style>
+	<style name="TextAppearance.StatusBar.Expanded.UserSwitcher" parent="@style/TextAppearance.StatusBar.Expanded">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+</resources>

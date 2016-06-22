@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="Theme.MinimumReqs" parent="@android:style/Theme.Material.Light.DarkActionBar">
+    <item name="android:colorPrimary">@*common:color/primary_material_light</item>
+		<item name="android:colorPrimaryDark">@*common:color/primary_material_dark</item>
+		<item name="android:statusBarColor">@*common:color/primary_material_light</item>
+		<item name="android:navigationBarColor">@*common:color/primary_material_light</item>
+		<item name="android:textColor">#FF707376</item>
+		<item name="android:textColorPrimary">#FF707376</item>
+		<item name="android:textColorSecondary">#FF949698</item>
+		<item name="android:textColorTertiary">#FFA9ACAE</item>
+		<item name="android:colorAccent">@*android:color/accent_material_light</item>
+    </style>
+    
+    <style name="Theme.FBUi" parent="@android:style/Theme.Material.Light.DarkActionBar">
+    <item name="android:colorPrimary">@*common:color/primary_material_light</item>
+		<item name="android:colorPrimaryDark">@*common:color/primary_material_dark</item>
+		<item name="android:statusBarColor">@*common:color/primary_material_light</item>
+		<item name="android:navigationBarColor">@*common:color/primary_material_light</item>
+		<item name="android:textColor">#FF707376</item>
+		<item name="android:textColorPrimary">#FF707376</item>
+		<item name="android:textColorSecondary">#FF949698</item>
+		<item name="android:textColorTertiary">#FFA9ACAE</item>
+		<item name="android:colorAccent">@*android:color/accent_material_light</item>
+    </style>
+    
+    <style name="Theme.FBUi.Overlay" parent="@android:style/Theme.Material.Light.DarkActionBar">
+    <item name="android:colorPrimary">@*common:color/primary_material_light</item>
+		<item name="android:colorPrimaryDark">@*common:color/primary_material_dark</item>
+		<item name="android:statusBarColor">@*common:color/primary_material_light</item>
+		<item name="android:navigationBarColor">@*common:color/primary_material_light</item>
+		<item name="android:textColor">#FF707376</item>
+		<item name="android:textColorPrimary">#FF707376</item>
+		<item name="android:textColorSecondary">#FF949698</item>
+		<item name="android:textColorTertiary">#FFA9ACAE</item>
+		<item name="android:colorAccent">@*android:color/accent_material_light</item>
+    </style>
+    
+    <style name="HomeActivityBaseTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+    <item name="android:colorPrimary">@*common:color/primary_material_light</item>
+		<item name="android:colorPrimaryDark">@*common:color/primary_material_dark</item>
+		<item name="android:statusBarColor">@*common:color/primary_material_light</item>
+		<item name="android:navigationBarColor">@*common:color/primary_material_light</item>
+		<item name="android:textColor">#FF707376</item>
+		<item name="android:textColorPrimary">#FF707376</item>
+		<item name="android:textColorSecondary">#FF949698</item>
+		<item name="android:textColorTertiary">#FFA9ACAE</item>
+		<item name="android:colorAccent">@*android:color/accent_material_light</item>
+    </style>
+    
+    <style name="HomeActivityTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+    <item name="android:colorPrimary">@*common:color/primary_material_light</item>
+		<item name="android:colorPrimaryDark">@*common:color/primary_material_dark</item>
+		<item name="android:statusBarColor">@*common:color/primary_material_light</item>
+		<item name="android:navigationBarColor">@*common:color/primary_material_light</item>
+		<item name="android:textColor">#FF707376</item>
+		<item name="android:textColorPrimary">#FF707376</item>
+		<item name="android:textColorSecondary">#FF949698</item>
+		<item name="android:textColorTertiary">#FFA9ACAE</item>
+		<item name="android:colorAccent">@*android:color/accent_material_light</item>
+    </style>
+    
+    <style name="HomeActivityThemeV2" parent="@android:style/Theme.Material.Light.DarkActionBar">
+    <item name="android:colorPrimary">@*common:color/primary_material_light</item>
+		<item name="android:colorPrimaryDark">@*common:color/primary_material_dark</item>
+		<item name="android:statusBarColor">@*common:color/primary_material_light</item>
+		<item name="android:navigationBarColor">@*common:color/primary_material_light</item>
+		<item name="android:textColor">#FF707376</item>
+		<item name="android:textColorPrimary">#FF707376</item>
+		<item name="android:textColorSecondary">#FF949698</item>
+		<item name="android:textColorTertiary">#FFA9ACAE</item>
+		<item name="android:colorAccent">@*android:color/accent_material_light</item>
+    </style>
+    
+    <style name="Theme.Caspian" parent="@android:style/Theme.Material.Light.DarkActionBar">
+    <item name="android:colorPrimary">@*common:color/primary_material_light</item>
+		<item name="android:colorPrimaryDark">@*common:color/primary_material_dark</item>
+		<item name="android:statusBarColor">@*common:color/primary_material_light</item>
+		<item name="android:navigationBarColor">@*common:color/primary_material_light</item>
+		<item name="android:textColor">#FF707376</item>
+		<item name="android:textColorPrimary">#FF707376</item>
+		<item name="android:textColorSecondary">#FF949698</item>
+		<item name="android:textColorTertiary">#FFA9ACAE</item>
+		<item name="android:colorAccent">@*android:color/accent_material_light</item>
+    </style>
+    
+    </resources>

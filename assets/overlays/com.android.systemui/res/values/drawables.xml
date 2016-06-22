@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <item type="drawable" name="system_bar_background">#ff0000</item>
+   <item type="drawable" name="system_bar_background_opaque">#00ff00</item>
+   <item type="drawable" name="qs_background_secondary">@*common:color/bg_dark</item>
+   <item type="drawable" name="qs_background_primary">@*common:drawable/qs</item>
+   
+    <drawable name="ic_volume_ringer">@*common:drawable/ic_audio_phone</drawable>
+    <drawable name="ic_volume_ringer_vibrate">@*common:drawable/ic_audio_vibrate</drawable>
+
+    <drawable name="ic_volume_media">@*common:drawable/ic_audio_media</drawable>
+    <drawable name="ic_volume_media_mute">@*common:drawable/ic_audio_media_mute</drawable>
+
+    <drawable name="ic_volume_alarm">@*common:drawable/ic_audio_alarm</drawable>
+    <drawable name="ic_volume_alarm_mute">@*common:drawable/ic_audio_alarm_mute</drawable>
+
+    <drawable name="ic_volume_notification">@*common:drawable/ic_audio_notification</drawable>
+    <drawable name="ic_volume_notification_mute">@*common:drawable/ic_audio_notification_mute</drawable>
+
+    <drawable name="ic_volume_system">@*common:drawable/ic_audio_system</drawable>
+    <drawable name="ic_volume_system_mute">@*common:drawable/ic_audio_system_mute</drawable>
+
+    <drawable name="ic_volume_bt_sco">@*common:drawable/ic_audio_bt</drawable>
+
+    <drawable name="ic_volume_media_bt">@*common:drawable/ic_audio_bt</drawable>
+    <drawable name="ic_volume_media_bt_mute">@*common:drawable/ic_audio_bt_mute</drawable>
+
+    <drawable name="ic_volume_remote">@*common:drawable/ic_audio_cast</drawable>
+    <drawable name="ic_volume_remote_mute">@*common:drawable/ic_audio_cast_mute</drawable>
+</resources>

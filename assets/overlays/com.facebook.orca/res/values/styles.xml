@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Orca" parent="@android:style/Theme.Material.Light">
+		<item name="android:navigationBarColor">@*common:color/bg_dark</item>
+    </style>
+	    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material.Light">
+		<item name="android:navigationBarColor">@*common:color/bg_dark</item>
+
+	</style>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="play_multi_primary">@*common:color/midnight_theme</color>
+    <color name="play_multi_primary_disabled">#ff1b1b1b</color>
+    <color name="play_multi_secondary">#ff282828</color>
+	
+	<color name="apps_primary">@*common:color/midnight_theme</color>
+    <color name="apps_primary_disabled">#ff1b1b1b</color>
+    <color name="apps_secondary">@*common:color/midnight_theme</color>
+    <color name="apps_secondary_disabled">#ff1b1b1b</color>
+
+    <color name="books_primary">@*common:color/midnight_theme</color>
+    <color name="books_primary_disabled">#ff1b1b1b</color>
+    <color name="books_secondary">#ff282828</color>
+
+    <color name="magazines_primary">@*common:color/midnight_theme</color>
+    <color name="magazines_primary_disabled">#ff1b1b1b</color>
+    <color name="magazines_secondary">#ff282828</color>
+
+    <color name="movies_primary">@*common:color/midnight_theme</color>
+    <color name="movies_primary_disabled">#ff1b1b1b</color>
+    <color name="movies_secondary">#ff282828</color>
+
+    <color name="music_primary">@*common:color/midnight_theme</color>
+    <color name="music_primary_disabled">#ff1b1b1b</color>
+    <color name="music_secondary">#ff282828</color>
+
+    <color name="newsstand_primary">@*common:color/midnight_theme</color>
+    <color name="newsstand_secondary">#ff282828</color>
+	<color name="newsstand_primary_disabled">#ff1b1b1b</color>
+
+    <color name="play_apps_primary">@*common:color/midnight_theme</color>
+    <color name="play_apps_secondary">#ff282828</color>
+
+    <color name="play_movies_primary">@*common:color/midnight_theme</color>
+    <color name="play_movies_secondary">#ff282828</color>
+
+    <color name="play_music_primary">@*common:color/midnight_theme</color>
+    <color name="play_music_secondary">#ff282828</color>
+	
+	<color name="play_books_primary">@*common:color/midnight_theme</color>
+    <color name="play_books_secondary">#ff282828</color>
+	
+    <color name="play_newsstand_primary">@*common:color/midnight_theme</color>
+    <color name="play_newsstand_secondary">#ff282828</color>
+
+    <color name="status_bar_apps">@*common:color/midnight_theme</color>
+    <color name="status_bar_books">@*common:color/midnight_theme</color>
+    <color name="status_bar_movies">@*common:color/midnight_theme</color>
+    <color name="status_bar_multi">@*common:color/midnight_theme</color>
+    <color name="status_bar_music">@*common:color/midnight_theme</color>
+    <color name="status_bar_newsstand">@*common:color/midnight_theme</color>
+	
+	<color name="abc_search_url_text_normal">#ffc8c8c8</color>
+	
+	<color name="highlighted_text_material_light">#ffcecece</color>
+    <color name="material_deep_teal_200">@*common:color/midnight_theme</color>
+    <color name="material_deep_teal_500">@*common:color/midnight_theme</color>
+    <color name="material_blue_grey_800">@*common:color/midnight_theme</color>
+    <color name="material_blue_grey_900">@*common:color/midnight_theme</color>
+    <color name="material_blue_grey_950">@*common:color/midnight_theme</color>
+</resources>

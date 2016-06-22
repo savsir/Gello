@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dashboard_padding_top">8.0dip</dimen>
+    <dimen name="dashboard_category_elevation">0dip</dimen>
+    <dimen name="dashboard_category_title_height">30.0dip</dimen>
+	<dimen name="actionbar_size">56.0dip</dimen>
+	<dimen name="dashboard_tile_minimum_height">70.0dip</dimen>
+	<dimen name="switchbar_subsettings_margin_start">70.0dip</dimen>
+    <dimen name="switchbar_subsettings_margin_end">16.0dip</dimen>
+</resources>

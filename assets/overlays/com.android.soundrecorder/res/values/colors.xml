@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_primary">@*common:color/ab_color</color>
+    <color name="button_background_pressed_color">@*common:color/accent</color>
+    <color name="button_background_focused_color">@*common:color/accent</color>
+    <color name="material_dark">@*common:color/accent_dark</color>
+    <color name="bottom_bar_background">#00ffffff</color>
+</resources>
